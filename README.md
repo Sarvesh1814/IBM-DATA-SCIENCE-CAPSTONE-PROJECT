@@ -38,9 +38,7 @@ Feel free to explore the individual project folders to learn more about each pro
 # Getting Started
 * To get started with the projects in this repository, follow these steps:
 
-* Clone the repository to your local machine using the following command:
-
-- git clone https://github.com/your-username/IBM-Data-Science-Capstone-Project.git
+* Clone the repository to your local machine 
 
 * Install the necessary dependencies and libraries by running the appropriate commands or setting up a virtual environment.
 
